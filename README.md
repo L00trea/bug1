@@ -1,2 +1,1 @@
-# bug1
-kaiyuan作业
+QH UNIVERSITY OPEN
