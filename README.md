@@ -1,3 +1,10 @@
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9B59B6,100:FF69B4&height=120&section=footer"/>
+</p>
+
+
+
 <h3 align="center">Student / Learner</h3>
 
 ---
@@ -37,6 +44,6 @@
 
 -
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:000000&height=120&section=footer"/>
-</p>
+
+
+
